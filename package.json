@@ -1,0 +1,11 @@
+{
+  "name": "2020-bootcamp-backend-com-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ivanvinicius/2020-bootcamp-backend-com-nodejs.git",
+  "author": "ivanvinicius <ivanvinicius88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
